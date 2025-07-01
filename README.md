@@ -28,7 +28,7 @@ I developed an interactive dashboard using the latest Power BI tools that helps 
 ---
 
 ## 📁 Project Structure
-
+```
 Banking-DataAnalytics-Project/
 │
 ├── datasets/
@@ -46,7 +46,7 @@ Banking-DataAnalytics-Project/
 │   └── sqlconnection.ipynb 
 |
 ├── README.md                        # Project overview and documentation
-
+```
 
 ## 🛠️ Tools & Technologies Used
 
